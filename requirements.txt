@@ -1,0 +1,5 @@
+pandas
+path.py
+#pydantic
+#spiper@https://github.com/shouldsee/spiper/tarball/0.1.5==0.1.5
+#attrdict
